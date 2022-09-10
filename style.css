@@ -1,8 +1,7 @@
-#list {
-    border: 1px dashed black;
-    width: 10%;
+h3 {
+    color: blue;
 }
 
-.item {
-    background-color: aqua;
+#italic {
+    color: red;
 }
